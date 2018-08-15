@@ -1,0 +1,10 @@
+#.box{
+	width: 960px;
+	margin:Opx auto;
+}
+
+@media screen and (max-width: 959px){
+	#.box{
+		width: 100%;
+	}
+}
